@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Notification</string>
+    <string name="create_a_notification">Create a notification</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="required_field">Please, fill up required field!</string>
+    <string name="notification">Notification</string>
+</resources>
