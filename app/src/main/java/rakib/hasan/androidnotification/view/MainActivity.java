@@ -75,7 +75,6 @@ public class MainActivity extends AppCompatActivity {
             }else {
                 Toast.makeText(this, R.string.required_field, Toast.LENGTH_SHORT).show();
             }
-
         });
 
         binding.acMainNotificationTwoBtn.setOnClickListener(v -> {
@@ -114,5 +113,4 @@ public class MainActivity extends AppCompatActivity {
     private void initViews() {
         notificationManager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
     }
-
 }
